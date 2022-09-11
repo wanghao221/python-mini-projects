@@ -119,3 +119,6 @@
 101 | Whatsapp 机器人：[Whatsapp Bot](https://github.com/wanghao221/python-mini-projects/tree/master/projects/whatsapp_Bot)| [urmil89](https://github.com/urmil89)
 102 | Zip Bruter：[Zip Bruter](https://github.com/wanghao221/python-mini-projects/tree/master/projects/Zip_Bruter) | [Erdoğan YOKSUL](https://www.github.com/eredotpkfr)
 103 | 倒计时器：[CountDown Timer](https://github.com/wanghao221/python-mini-projects/tree/master/projects/Countdown_timer) | [Japneet Kalra](https://github.com/japneetsingh035)
+104 | 预测天气：[Forecast Your Weather](https://github.com/wanghao221/python-mini-projects/tree/main/projects/ForecastYourWeather/main.py) | [prkskrs](https://github.com/CatalystsReachOut)
+105 | 获取电话号码详细信息：[Get Phone Number Details](https://github.com/wanghao221/python-mini-projects/blob/main/projects/GetPhoneNumberDetails/main.py) | [prkskrs](https://github.com/CatalystsReachOut)
+106 | 制作 IP 追踪器：[Make IP Tracker](https://github.com/wanghao221/python-mini-projects/tree/main/projects/MakeIPTracker/main.py) | [prkskrs](https://github.com/CatalystsReachOut)
